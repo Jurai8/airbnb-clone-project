@@ -1,5 +1,5 @@
 
-# Air BnB Clone
+# AirBnB Clone
 
 ## Overview
 
@@ -14,3 +14,9 @@ This is a comprehensive, real-world application designed to simulate the develop
 - Django
 - MySQL
 - GraphQL
+
+## Team Roles
+
+- Software engineer (back & frontend)
+- Test automation engineer
+- DevOps engineer
